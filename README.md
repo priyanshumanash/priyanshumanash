@@ -3,8 +3,7 @@
 
 ![linkdln](https://github.com/priyanshumanash/priyanshumanash/assets/65431693/8c062ebb-4cab-459e-ab95-81159b8e2e03)
 
-[![GitHub followers](htt![Uploading linkdln.PNG…]()
-ps://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
+
 
 
 ## About Me
