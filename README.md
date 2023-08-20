@@ -1,8 +1,10 @@
-# [Your Name]
+# [PRIYANSHU MANASH]
 
-[![Profile Image](https://your-image-url.com/your-profile-image.png)](https://github.com/your-username)
+[![Profile Image]
+![linkdln](https://github.com/priyanshumanash/priyanshumanash/assets/65431693/8c062ebb-4cab-459e-ab95-81159b8e2e03)
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
+[![GitHub followers](htt![Uploading linkdln.PNG…]()
+ps://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?label=Twitter&style=social)](https://twitter.com/your-twitter-handle)
 
 ## About Me
